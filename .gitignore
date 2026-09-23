@@ -1,0 +1,21 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Large Model and Data Files (Optional: Remove if you want to push them)
+*.pkl
+# movies.csv
+# ratings.csv
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
