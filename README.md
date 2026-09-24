@@ -45,6 +45,7 @@ Following industry standards, the **Item-Based Collaborative Filtering** model w
 ├── item_based_knn_model.pkl          # Exported Production Model
 ├── movie_user_pivot_table.pkl        # Serialized Data Matrix
 ├── Plots                             # Project's plots
+├── requirements.txt                  # Dependencies
 └── README.md                         # Documentation
 ```
 
