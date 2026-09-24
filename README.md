@@ -2,14 +2,6 @@
 
 This repository contains a professional end-to-end Machine Learning pipeline that builds a Recommendation System using the MovieLens dataset. It explores multiple architectural approaches to personalization.
 
-## 🛠️ Architecture & Algorithms
-
-The project implements and evaluates three distinct recommender models:
-
-1. **Content-Based Filtering:** Utilizes **TF-IDF Vectorization** and Cosine Similarity on movie genres to solve the cold-start item problem.
-2. **User-Based Collaborative Filtering:** Leverages **K-Nearest Neighbors (KNN)** to cluster users with similar behaviors, optimizing serendipity in recommendations.
-3. **Item-Based Collaborative Filtering:** Uses KNN on a Sparse Matrix (SciPy) to map stable item-to-item relationships based on rating patterns.
-
 ## ⚙️ Technologies Used
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,6 +18,14 @@ The project implements and evaluates three distinct recommender models:
 ```text
 pip install numpy pandas scipy matplotlib seaborn scikit-learn joblib
 ```
+
+## 🛠️ Architecture & Algorithms
+
+The project implements and evaluates three distinct recommender models:
+
+1. **Content-Based Filtering:** Utilizes **TF-IDF Vectorization** and Cosine Similarity on movie genres to solve the cold-start item problem.
+2. **User-Based Collaborative Filtering:** Leverages **K-Nearest Neighbors (KNN)** to cluster users with similar behaviors, optimizing serendipity in recommendations.
+3. **Item-Based Collaborative Filtering:** Uses KNN on a Sparse Matrix (SciPy) to map stable item-to-item relationships based on rating patterns.
 
 ## 🚀 Key Takeaways & Export
 
