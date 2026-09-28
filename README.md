@@ -33,6 +33,8 @@ Following industry standards, the **Item-Based Collaborative Filtering** model w
 
 ### 📊 Top 10 movies based on users ratings
 
+<!-- Plot -->
+
 ![Top 10 movies based on users ratings](./Plots/Top%2010%20rated%20movies.png)
 
 ## 📂 Structure
