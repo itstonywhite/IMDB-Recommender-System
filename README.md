@@ -44,6 +44,7 @@ Following industry standards, the **Item-Based Collaborative Filtering** model w
 ├── movies.csv                        # Movies Dataset
 ├── ratings.csv                       # User Ratings Dataset
 ├── IMDB Recommender System.ipynb     # Main ML Pipeline and Logic
+├── IMDB Recommender System.py        # Main Python File
 ├── item_based_knn_model.pkl          # Exported Production Model
 ├── movie_user_pivot_table.pkl        # Serialized Data Matrix
 ├── Plots                             # Project's plots
